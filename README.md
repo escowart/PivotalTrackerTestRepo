@@ -1,2 +1,2 @@
 # PivotalTrackerTestRepo
-Repo for testing a connection to Pivotal Tracker
+Repo for testing a connection to Pivotal Tracker & more
